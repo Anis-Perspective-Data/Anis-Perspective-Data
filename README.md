@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anila B</h1>
 <h3 align="center">Perspective Statistical and Inferential Data Analyst</h3>
 
-<img align = "right" width = "450" src = "https://cdn.dribbble.com/users/2766433/screenshots/5532542/lady_desktop_prep_bkg_v01.gif">
+<img align = "right" width = "400" src = "https://cdn.dribbble.com/users/2766433/screenshots/5532542/lady_desktop_prep_bkg_v01.gif">
 
 - 🔭 I’m currently working on **Python Data Science**
 
