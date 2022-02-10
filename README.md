@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python Data Science and Statistics**
 
-- 📫 How to reach me **kavithavarsha.maredi@outlook.com**
+- 📫 How to reach me **Anila.baindla@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anila-baindla-691a33230](https://www.linkedin.com/in/anila-baindla-691a33230)
 
